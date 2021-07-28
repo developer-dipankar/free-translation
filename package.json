@@ -1,6 +1,6 @@
 {
   "name": "free-translation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A free & faster translation wrapper plugin for all languages.",
   "main": "index.js",
   "scripts": {
