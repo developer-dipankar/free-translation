@@ -1,3 +1,5 @@
+var request = require('request-promise');
+
 var translate = async ({from = 'en', to = 'en', textArray = []}) => {
     var text = textArray.join(' \n ');
     var text_trans = encodeURI(JSON.stringify([[["MkEWBc",JSON.stringify([[text,from,to,true], [null]]),null,"generic"]]]))
