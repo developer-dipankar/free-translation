@@ -1,0 +1,26 @@
+{
+  "name": "free-translation",
+  "version": "1.0.0",
+  "description": "A free & faster translation wrapper plugin for all languages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developer-dipankar/free-translation.git"
+  },
+  "keywords": [
+    "translation",
+    "translator"
+  ],
+  "author": "Dipankar Naskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developer-dipankar/free-translation/issues"
+  },
+  "homepage": "https://github.com/developer-dipankar/free-translation#readme",
+  "dependencies": {
+    "request-promise": "^4.2.6"
+  }
+}
